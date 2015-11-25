@@ -1,3 +1,9 @@
+Convert svn repository without trunk to git
+-------------------------------------------
+
+apt-get install git-svn to have git svn command.
+Just remove --stdlayout option from git svn command.
+
 ABOUT git-svn-migrate
 ---------------------
 
